@@ -1,4 +1,4 @@
-# Project Title
+# Remets | Developer
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/project-title/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/project-title.svg)](https://github.com/yourusername/project-title/issues)
