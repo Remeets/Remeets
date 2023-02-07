@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a full-stack developer with experience in the following technologies:<br><br>- 💻 JavaScript Developer<br>- 💻 Java Developer<br><br>🤖 I Enjoy Making<br>- Custom Discord Bots<br>- Custom Minecraft Plugins<br><br>With a passion for programming, I strive to create innovative and efficient solutions for various projects. I especially enjoy developing custom Discord bots and Minecraft plugins, always up for a challenge and eager to learn new technologies.<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Experienced+full-stack+developer+with+a+strong+background+in+JavaScript+and+Java.)](https://git.io/typing-svg)<br><br>- 💻 JavaScript Developer<br>- 💻 Java Developer<br><br>🤖 I Enjoy Making<br>- Custom Discord Bots<br>- Custom Minecraft Plugins<br><br>With a passion for programming, I strive to create innovative and efficient solutions for various projects. I especially enjoy developing custom Discord bots and Minecraft plugins, always up for a challenge and eager to learn new technologies.<br>
 
 
 # 💻 Tech Stack:
